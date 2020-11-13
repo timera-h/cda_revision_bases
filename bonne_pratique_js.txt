@@ -1,0 +1,7 @@
+mettre un underscore devant un attribut permet de proteger l'attribut
+pour acceder à la valeur de l'attribut il faut mettre une methode getter
+get attribute(){
+return this._attributeValue;
+}
+
+skip dans le test permet de ne pas executer le test
